@@ -17,7 +17,8 @@
         Hardeep Shoker 
     </author>
 
+    <preference name="splash-screen-duration" value="0" />
+    <feature name="http://api.phonegap.com/1.0/camera"/>
+
 </widget>
 
-<preference name="splash-screen-duration" value="0" />
-<feature name="http://api.phonegap.com/1.0/camera"/>
