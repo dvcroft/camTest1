@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+    <widget xmlns = "http://www.w3.org/ns/widgets"
+        xmlns:gap = "http://phonegap.com/ns/1.0"
+        id        = "com.qualint.camTest1"
+        versionCode="10" 
+        version   = "0.0.1">
+
+    <!-- versionCode is optional and Android only -->
+
+    <name>Camera Test</name>
+
+    <description>
+        Testing camera 
+    </description>
+
+    <author href="https://build.phonegap.com" email="support@phonegap.com">
+        Hardeep Shoker 
+    </author>
+
+</widget>
+
+<preference name="splash-screen-duration" value="0" />
+<feature name="http://api.phonegap.com/1.0/camera"/>
